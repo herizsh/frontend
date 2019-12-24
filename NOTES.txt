@@ -1,0 +1,11 @@
+npx create-react-app frontend
+
+yarn add tailwindcss --dev
+
+npx tailwind init tailwind.js --full
+
+yarn add postcss-cli autoprefixer --save-dev
+
+
+touch postcss.config.js
+
